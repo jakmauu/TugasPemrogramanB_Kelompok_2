@@ -1,6 +1,6 @@
 
 
-## Kelompok 4
+## Kelompok 2
 
 
 ## Judul Program
@@ -13,6 +13,7 @@
 | Ibnu Zaky Fauzi        | 2306161870 |
 | Gerrardin Nabil Zulhian| 2306250661 |
 | Muhammad Hilmy Mahardika| 2306267006 |
+| Samih Bassam        | 2306250623 |
 
 ## Deskripsi Program
 
@@ -46,4 +47,4 @@ Visualisasi ini bertujuan untuk memperjelas konsep integral area di bawah kurva 
 
 **Catatan:**  
 - Kode sumber C dan Python dapat ditemukan di folder repository ini.
-- Program dapat dikembangkan lebih lanjut untuk data hasil eksperimen atau sinyal non-sinusoidal.
+
